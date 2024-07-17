@@ -11,4 +11,5 @@ https://github.com/BzzzThe18th/MonkeModManager/releases/tag/2.0.3
 6. Place the SpeedManager.DLL into the plugins folder
 
 # Images 
-https://github.com/Ventern-gtr/SpeedManager/blob/main/ImageGUI.png?raw=true 
+![ImageGUI](https://github.com/user-attachments/assets/33a9d06d-f8c9-4f9d-aa0d-0fefe2cbe112)
+
