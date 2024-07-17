@@ -17,8 +17,9 @@ https://github.com/BzzzThe18th/MonkeModManager/releases/tag/2.0.3
 # How To Inject
 1. install SharpMonoInjector https://github.com/wh0am15533/SharpMonoInjector
 2. Open smi_gui.exe
-3. copy these settings exactly into the GUI
+3. copy these settings exactly into the GUI [image below]
 5. if gorilla tag doesnt show up close and reopen gorilla tag and then click refresh
+
 ![image](https://github.com/user-attachments/assets/fd956066-1682-479e-a99b-88613609474a)
 
 
