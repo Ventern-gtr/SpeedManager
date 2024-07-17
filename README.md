@@ -13,3 +13,11 @@ https://github.com/BzzzThe18th/MonkeModManager/releases/tag/2.0.3
 # Images 
 ![ImageGUI](https://github.com/user-attachments/assets/33a9d06d-f8c9-4f9d-aa0d-0fefe2cbe112)
 
+# LEGAL
+this product is not affiliated with gorilla tag or 
+Another Axiom LLC and is not endorsed or
+otherwise sponsored by Another Axiom LLC.
+Portions of the materials contained herein are 
+property of Another Axiom LLC. ©2021 Another 
+Axiom LLC.
+
