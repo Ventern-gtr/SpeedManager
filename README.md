@@ -14,6 +14,14 @@ https://github.com/BzzzThe18th/MonkeModManager/releases/tag/2.0.3
 5. GorillaTag > BepInEx > Plugins (if there is no plugins folder just make one)
 6. Place the SpeedManager.DLL into the plugins folder
 
+# How To Inject
+1. install SharpMonoInjector https://github.com/wh0am15533/SharpMonoInjector
+2. Open smi_gui.exe
+3. copy these settings exactly into the GUI 
+![image](https://github.com/user-attachments/assets/fd956066-1682-479e-a99b-88613609474a)
+4. if gorilla tag doesnt show up close and reopen gorilla tag and then click refresh
+
+
 # Images 
 ![ImageGUI](https://github.com/user-attachments/assets/33a9d06d-f8c9-4f9d-aa0d-0fefe2cbe112)
 
