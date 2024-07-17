@@ -4,6 +4,7 @@ Gorilla Tag speed manager Cheat, very basic GUI for changing ur speed. has 5 dif
 
 # My discord
 https://discord.gg/D9fRUyt63T
+join my discord for updating leaks and news about other updates
 
 # How To Use / How To Install
 1. Install MonkeModManager to install Mods/BepinEX
